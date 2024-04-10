@@ -1,0 +1,6 @@
+# Redirect user from app layout to main page when they are not authenticated
+
+/menu /
+/cart /
+/order/new /
+/order/:id /
